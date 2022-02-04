@@ -1,6 +1,6 @@
 {
   "name": "get-aws-actions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "bin": "index.js",
   "description": "NPX script that lists/searches AWS actions used in policies. It copies the selected one to the clipboard.",
